@@ -80,7 +80,7 @@ My work on the **Google Tech Dev Guide**.
 
 - [ ] **Work on projects outside of the classroom**
 <br>&nbsp;&#9744; Capstone project: [Analyzing (Social) Network Data](https://www.coursera.org/specializations/java-object-oriented) - scroll down to bottom of page, UCSD, Coursera
-<br>&nbsp;&#9744; Capstone project: [Java Programming: A DIY Version of Netflix and Amazon Recommendation Engines,](https://www.coursera.org/learn/java-programming-recommender) Duke University, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coursera
+<br>&nbsp;&#9744; Capstone project: [Java Programming: A DIY Version of Netflix and Amazon Recommendation Engines,](https://www.coursera.org/learn/java-programming-recommender) Duke University, Coursera
 <br>&nbsp;&#9744; [Project Directory,](https://projects.apache.org/) Apache
 <br>&nbsp;&#9744; [Google Summer of Code Project Archive](https://www.google-melange.com/gsoc/homepage/google/gsoc2013)
 
