@@ -91,7 +91,45 @@ My work on the **Google Tech Dev Guide**.
 
 <section id="external-resources">
 <h2>External Resources</h2>
-  <p>W.I.P.</p>
+<details>
+<summary>CS50’s Understanding Technology</summary><br>
+<ul>
+    <details>
+    <summary><b>Syllabus</b></summary><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<b>Hello, world!</b><br><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;This course is for students who don’t (yet) consider themselves computer persons.<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;Designed for students who work with technology every day but don’t necessarily<br> 
+    &nbsp;&nbsp;&nbsp;&nbsp;understand how it all works underneath the hood or how to solve problems when something<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;goes wrong, this course fills in the gaps, empowering students to use and troubleshoot<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;technology more effectively. Through lectures on hardware, the Internet, multimedia,<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;security, programming, and web development as well as through readings on current events,<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;this course equips students for today’s technology and prepares them for tomorrow’s as well.
+    </details>
+</ul>
+<ul>
+    <details>
+    <summary><b>Website</b></summary><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.edx.org/course/cs50s-understanding-technology">CS50’s Understanding Technology</a> - <b>Edx</b><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cs50.harvard.edu/technology/">CS50’s Understanding Technology</a> - <b>OpenCourseWare</b>
+    </details>
+</ul>
+<ul>
+    <details>
+    <summary><b>Lectures</b></summary><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;1. <a href="https://cs50.harvard.edu/technology/2017/weeks/hardware/">Hardware</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;2. <a href="https://cs50.harvard.edu/technology/2017/weeks/internet/">Internet</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;3. <a href="https://cs50.harvard.edu/technology/2017/weeks/multimedia/">Multimedia</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;4. <a href="https://cs50.harvard.edu/technology/2017/weeks/security/">Security</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;5. <a href="https://cs50.harvard.edu/technology/2017/weeks/web_development/">Web Development</a><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;6. <a href="https://cs50.harvard.edu/technology/2017/weeks/programming/">Programming</a>
+    </details>
+</ul>
+<ul>
+    <details>
+    <summary><b>Certificate</b></summary><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cs50.harvard.edu/certificates/7feca16e-3624-4778-a0b8-2a9cf87ed1e5">CS50 Certificate</a>
+    </details>
+</ul>
 </section>
 
 ### Additional Information
