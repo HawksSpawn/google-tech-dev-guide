@@ -97,7 +97,10 @@ My work on the **Google Tech Dev Guide**. (I have included task lists to check m
 
 **Hello, world!**
 
-This course is for students who don’t (yet) consider themselves computer persons. Designed for students who work with technology every day but don’t necessarily understand how it all works underneath the hood or how to solve problems when something goes wrong, this course fills in the gaps, empowering students to use and troubleshoot technology more effectively. Through lectures on hardware, the Internet, multimedia, security, programming, and web development as well as through readings on current events, this course equips students for today’s technology and prepares them for tomorrow’s as well.	
+This course is for students who don’t (yet) consider themselves computer persons. Designed for students who work with technology every day but don’t necessarily
+understand how it all works underneath the hood or how to solve problems when something goes wrong, this course fills in the gaps, empowering students to use and
+troubleshoot technology more effectively. Through lectures on hardware, the Internet, multimedia, security, programming, and web development as well as through
+readings on current events, this course equips students for today’s technology and prepares them for tomorrow’s as well.	
 
 ## Website
     
@@ -119,8 +122,102 @@ This course is for students who don’t (yet) consider themselves computer perso
 
 </details>
 
+### SQL
+
+<details>
+<summary>Learn SQL Course, Codecademy</summary>
+
+## Syllabus
+
+Learn to communicate with databases using SQL, the standard data management language.
+
+## Website
+    
+- [Learn SQL - **Codecademy**](https://www.codecademy.com/learn/learn-sql)
+
+## Modules
+
+1. [Manipulation](https://www.codecademy.com/learn/learn-sql/modules/learn-sql-manipulation)
+2. [Queries](https://www.codecademy.com/learn/learn-sql/modules/learn-sql-queries)
+3. [Aggregate Functions](https://www.codecademy.com/learn/learn-sql/modules/learn-sql-aggregate-functions)
+4. [Multiple Tables](https://www.codecademy.com/learn/learn-sql/modules/learn-sql-multiple-tables)
+
+## Certificate
+
+- [Learn SQL Certificate](Codecademy_SQL_Certificate.pdf)    
+
+</details>
+
+<details>
+<summary>SQLCourse</summary>
+
+## Website
+     
+- [**SQLCourse**](https://www.sqlcourse.com/)
+
+## Courses
+
+<details>
+<summary>Beginner Course</summary>
+
+## Syllabus
+    
+Our **Beginner SQL Course** is the perfect place to start if you are new to the world of database programming or database administration. In addition to learning
+basic SQL commands and syntax – such as how to insert, update, and delete information from tables – users will be able to practice those same commands through our 
+free online SQL interpreter. Enter SQL commands to receive immediate results and experiment to better understand how database concepts such as *table drops* and 
+*table selects* work.
+
+The SQL tutorial and online interpreter currently supports a subset of ANSI SQL. The basics of commands such as *select*, *insert*, *update*, *delete*, and *drop* 
+will be covered in this gentle introduction to *Structured Query Language (SQL)*.
+
+If you are already familiar with the basics of SQL, you can still use this database course as a refresher and practice common SQL commands and statements.
+
+## Lessons    
+    
+1. [What is SQL?](https://www.sqlcourse.com/beginner-course/what-is-sql/)
+2. [Table Basics](https://www.sqlcourse.com/beginner-course/table-basics/)
+3. [Selecting Data](https://www.sqlcourse.com/beginner-course/selecting-data/)
+4. [Creating Tables](https://www.sqlcourse.com/beginner-course/creating-tables/)
+5. [Inserting into a Table](https://www.sqlcourse.com/beginner-course/inserting-into-a-table/)
+6. [Updating Records](https://www.sqlcourse.com/beginner-course/updating-records/)
+7. [Deleting Records](https://www.sqlcourse.com/beginner-course/deleting-records/)
+8. [Drop a Table](https://www.sqlcourse.com/beginner-course/drop-a-table/)
+    
+</details>
+
+<details>
+<summary>Advanced Course</summary>
+
+## Syllabus
+    
+This unique SQL database tutorial builds on the Beginner Course on this site. It provides budding database programmers and db admins with more advanced, 
+easy-to-follow SQL instructions and the ability to practice what you learn on-line with immediate feedback, thanks to our SQL interpreter! You will receive immediate
+results on a web page after submitting your SQL Commands.
+
+This continuation course will provide you with critical need-to-know advanced features and clauses of the select statement that were not supported in the previous
+SQLCourse.com site. Everything you learn here will be ANSI SQL compliant and should work with most SQL databases, including Oracle, SQL Server, MySQL, MS Access,
+Informix, Sybase, or any other ANSI SQL compliant database.
+
+If you are already familiar with advanced SQL commands and database administration concepts, you can still use this course as a refresher, and practice some SQL
+statements.
+
+## Lessons    
+    
+ 1. [Advanced SQL Tutorial Introduction](https://www.sqlcourse.com/advanced-course/tutorial-intro/)
+ 2. [SELECT Statement](https://www.sqlcourse.com/advanced-course/select-statement/)
+ 3. [Aggregate Functions](https://www.sqlcourse.com/advanced-course/aggregate-functions/)
+ 4. [GROUP BY clause](https://www.sqlcourse.com/advanced-course/group-by-clause/)
+ 5. [HAVING clause](https://www.sqlcourse.com/advanced-course/having-clause/)
+ 6. [ORDER BY clause](https://www.sqlcourse.com/advanced-course/order-by-clause/)
+ 7. [Combining Conditions & Boolean Operators](https://www.sqlcourse.com/advanced-course/combining-conditions-boolean-operators/)
+ 8. [IN & BETWEEN](https://www.sqlcourse.com/advanced-course/in-between/)
+ 9. [Mathematical Functions](https://www.sqlcourse.com/advanced-course/mathematical-functions/)
+10. [Table Joins, a must](https://www.sqlcourse.com/advanced-course/table-joins/)
+
+</details>
+
 ### Additional Information
 
 > For more information on this guide take a look at the link below:
 
-* [Google Tech Dev Guide](https://github.com/GustavBertram/old-google-tech-dev-guide)
+- [Google Tech Dev Guide](https://github.com/GustavBertram/old-google-tech-dev-guide)
